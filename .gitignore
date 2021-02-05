@@ -1,0 +1,5 @@
+test_tfrecords/*
+train_tfrecords/*
+
+*.zip
+*.mp3
